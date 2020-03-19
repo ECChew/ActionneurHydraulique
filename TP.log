@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6840 64-bit) (preloaded format=pdflatex 2018.12.9)  7 MAR 2020 15:44
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6840 64-bit) (preloaded format=pdflatex 2018.12.9)  15 MAR 2020 15:39
 entering extended mode
 **./TP.tex
 (TP.tex
@@ -1760,7 +1760,7 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 641.
  ) 
 Here is how much of TeX's memory you used:
  42813 strings out of 492970
- 947847 string characters out of 3143823
+ 947917 string characters out of 3143823
  1273544 words of memory out of 3000000
  45755 multiletter control sequences out of 15000+200000
  20780 words of font info for 60 fonts, out of 3000000 for 9000
@@ -1782,9 +1782,9 @@ pk> <C:\Users\Huynh\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600
 /amsfonts/cm/cmmi8.pfb><D:/Miktex/fonts/type1/public/amsfonts/cm/cmr12.pfb><D:/
 Miktex/fonts/type1/public/amsfonts/cm/cmr8.pfb><D:/Miktex/fonts/type1/public/am
 sfonts/cm/cmsy10.pfb><D:/Miktex/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
-Output written on TP.pdf (14 pages, 339073 bytes).
+Output written on TP.pdf (14 pages, 338374 bytes).
 PDF statistics:
- 517 PDF objects out of 1000 (max. 8388607)
+ 515 PDF objects out of 1000 (max. 8388607)
  58 named destinations out of 1000 (max. 500000)
  121 words of extra memory for PDF output out of 10000 (max. 10000000)
 
